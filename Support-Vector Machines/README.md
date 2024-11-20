@@ -28,12 +28,12 @@ There are 4 kernel function that I used in this task:
 * Radial Basis Function (RBF)
 * Sigmoid
 
-Linear equation: ![img_3.png](img_3.png)
+Linear equation: ![img_5.png](img_5.png)
 
 where x and y are corresponding data, the w is the perpendicular vector to hyperplane and b is offset from the origin.
 The simplest one, which will find a straight line between two sets.
 
-Other functions: ![img_4.png](img_4.png)
+Other functions: ![img_6.png](img_6.png)
 
 As us can see on each of my plots, different functions give us different patterns of hyperplane.
 
